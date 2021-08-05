@@ -1,0 +1,3 @@
+Testes funcionais são de nível alto e atuam no nível do usuário.
+Testes de unidade são de nível baixo, atuando no nível do desenvolvedor.
+
