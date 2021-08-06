@@ -1,0 +1,7 @@
+
+No processo TDD temos como primeira etapa a criação de um teste funcional. 
+
+Enquanto não tivermos sucesso ao passar no teste iremos realizar o processo de desenvolvimento. Neste, iremos escrever um teste
+de unidade que deverá ser executado. Enquanto este teste não for concluído com sucesso, devemos realizar pequenas alterações em nosso projeto.
+
+Depois que for concluído com sucesso o teste funcional, deveremos refatorar a aplicação.
