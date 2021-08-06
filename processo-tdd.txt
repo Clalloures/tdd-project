@@ -1,4 +1,7 @@
 
+Processo TDD
+
+
 No processo TDD temos como primeira etapa a criação de um teste funcional. 
 
 Enquanto não tivermos sucesso ao passar no teste iremos realizar o processo de desenvolvimento. Neste, iremos escrever um teste
